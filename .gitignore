@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development files
+.env
+*.sqlite3
+
+# Logs and backups
+log/
+backup/
+
+# Django media files
+media/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Compiled Python modules
+*.pyd
+*.pyo
+*.pyc
+
+# Other project-specific files to ignore
+node_modules/
+bower_components/
+*.log
+*.bak
+*.swp
